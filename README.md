@@ -1,4 +1,7 @@
 # dify_custom_tools
+
+![preview.png](./images/preview.png)
+
 ## 自定义 Dify 工具
 ### 源码运行
 拷贝文件夹 `core/tools/provider/buildin/shuyi` 到 Dify 对应的源码目录启动应用即可。
